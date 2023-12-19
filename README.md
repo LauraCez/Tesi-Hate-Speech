@@ -1,3 +1,4 @@
 # Tesi-Hate-Speech
 Hate Speech e Social Network. Analisi del linguaggio d'odio nel processo Depp-Heard
+
 Corpus di 2037 commenti realizzato per una tesi triennale che si pone l’obiettivo di delineare, tramite un’analisi linguistica di un corpus linguistico, il concetto di hate speech, altrimenti detto linguaggio d’odio, evidenziandone le modalità d’uso e le caratteristiche, analizzando le forme e le strutture con cui si comunica odio nell’ambito dei social media. Si identifica come caso di studio il processo Depp-Heard e, una volta sintetizzate le fasi del processo, si procede prendendo in esame le reazioni degli utenti al processo tramite l’analisi dei commenti sotto ai post YouTube che descrivono e analizzano la vicenda. Tali commenti sono stati analizzati prendendo in considerazione presenza, assenza e intensità di cinque categorizzazioni: hate speech, aggressività, offensività, stereotipi e target.
